@@ -43,7 +43,7 @@ recepientAddresses = ['njegos.dukic.998@gmail.com']
 # conn = smtplib.SMTP('smtp.gmail.com', 587) # SMTP Address and Port.
 # conn.ehlo() # Starting connection.
 # conn.starttls() # Statring TLS encryption, encrpyted when password sent.
-# conn.login('njegos.dukic.998@gmail.com', 'xzmbzobvgbklvcpy')
+# conn.login('njegos.dukic.998@gmail.com', '---')
 
 # msg = MIMEText(message)
 # msg['Subject'] = 'New notifications!'
